@@ -1,2 +1,1 @@
-# front-end
-Front end project in Codepen
+# Front end project
